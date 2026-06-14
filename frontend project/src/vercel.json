@@ -1,7 +1,0 @@
-{
-  "framework": "vite",
-  "rootDirectory": "frontend project",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ]
-}
